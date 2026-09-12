@@ -1,0 +1,8 @@
+# Entorno virtual y credenciales
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Directorios de datos generados por la herramienta
+Descargas/
